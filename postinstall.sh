@@ -12,7 +12,7 @@ sudo pacman -S --needed \
     rustup \
     watchexec \
     noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra \
-    texlive \
+    texlive texlive-langportuguese \
     firefox \
     zed
 
