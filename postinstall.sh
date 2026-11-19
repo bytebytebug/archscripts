@@ -10,6 +10,7 @@ sudo pacman -S --needed \
     neovim emacs tmux \
     mise \
     rustup \
+    watchexec \
     noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra \
     texlive \
     firefox \
