@@ -13,6 +13,7 @@ sudo pacman -S --needed \
     watchexec \
     noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra \
     texlive texlive-langportuguese \
+    poppler \
     firefox \
     zed
 
